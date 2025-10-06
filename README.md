@@ -2,6 +2,7 @@
     gantt
     title Sistema de Cadastro de Empresas
     dateFormat  YYYY-MM-DD
+    axisFormat  %d/%m
 
     section Preparação
     Levantamento de Requisitos       :a1, 2025-10-05, 7d
