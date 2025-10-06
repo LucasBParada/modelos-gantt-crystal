@@ -4,10 +4,10 @@ gantt
     dateFormat YYYY-MM-DD
 
     section Preparação
-    Levantamentos de Requisitos e Documentação Funcional :active, a1, 2025-10-05, 21d
+    Levantamentos de Requisitos e Documentação Funcional. :active, a1, 2025-10-05, 21d
 
-    section Desenvolvimento
-    Limpeza e Niv. :active, a2, after a1, 10d
+    section Design
+    Rascunho de Telas e Layout do Sistema. :active, a2, after a1, 21d
 
     section Construção Fundação
     Escavação e Imper. :active, a3, after a2, 15d
