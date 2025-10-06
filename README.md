@@ -1,5 +1,5 @@
 ```mermaid
-gantt
+    gantt
     title Sistema de Cadastro de Empresas
     dateFormat  YYYY-MM-DD
 
