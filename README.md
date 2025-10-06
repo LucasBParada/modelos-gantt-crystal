@@ -1,4 +1,4 @@
-
+```mermaid
 gantt
     title Sistema de Cadastro de Empresas
     dateFormat  YYYY-MM-DD
@@ -20,3 +20,4 @@ gantt
     Upload de Logotipo               :a9, after a8, 7d
     Relatórios PDF/Excel             :a10, after a9, 14d
     Painel Administrativo            :a11, after a10, 14d
+```
