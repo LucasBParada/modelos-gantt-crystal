@@ -23,7 +23,7 @@ graph TD
   F5 --> R5["Revisão da diretoria"]:::amarelo
 
   %% Entrega final
-  EF["Mês 6: Entrega final"]:::vermelho --> FF["Sistema testado, implantado e validado"]:::branco
+  EF["Mês 6: Entrega final"]:::branco --> FF["Sistema testado, implantado e validado"]:::branco
 
   R1 --> E2
   R2 --> E3
