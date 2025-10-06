@@ -15,9 +15,15 @@
     section Desenvolvimento
     Configuração do Ambiente         :a5, after a4, 7d
     Criação do Banco de Dados        :a6, after a5, 7d
-    Módulo de Login                  :a7, after a6, 14d
-    CRUD de Empresas                 :a8, after a7, 14d
+    Módulo de Login                  :a7, after a6, 7d
+    CRUD de Empresas                 :a8, after a7, 7d
     Upload de Logotipo               :a9, after a8, 7d
-    Relatórios PDF/Excel             :a10, after a9, 14d
-    Painel Administrativo            :a11, after a10, 14d
+    Relatórios PDF/Excel             :a10, after a9, 7d
+    Painel Administrativo            :a11, after a10, 7d
+
+    section Testes e Implementação
+    Testes unitários e de integração     :a12, after a11, 7d 
+    Testes de usabilidade                :a13, after a12, 7d
+    Implantação final e Entrega          :a14, after a13, 7d 
+
 ```
