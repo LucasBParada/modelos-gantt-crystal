@@ -9,8 +9,8 @@ gantt
     section Design
     Rascunho de Telas e Layout do Sistema. :active, a2, after a1, 21d
 
-    section Construção Fundação
-    Escavação e Imper. :active, a3, after a2, 15d
+    section Desenvolvimento
+    Configuração do ambiente de desenvolvimento, Criação do banco de dados, Programação do módulo de login, Programação do CRUD, Implementação do upload de logotipo, Desenvolvimento dos relatórios, Configuração do painel administrativo. :active, a3, after a2, 21d
 
     section Construção da Casa
     Paredes, Colunas, Vigas e Telhados :active, a4, after a3, 30d
