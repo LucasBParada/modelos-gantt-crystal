@@ -1,12 +1,12 @@
 ```mermaid
 gantt
-    title Construção Casa
+    title Sistema Cadastro de Empresas
     dateFormat YYYY-MM-DD
 
-    section Planejamento
-    Desenhos e Aprovações :active, a1, 2025-09-08, 20d
+    section Preparação
+    Levantamentos de Requisitos e Documentação Funcional :active, a1, 2025-10-05
 
-    section Preparação do Terreno
+    section Desenvolvimento
     Limpeza e Niv. :active, a2, after a1, 10d
 
     section Construção Fundação
